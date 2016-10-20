@@ -1,0 +1,25 @@
+.
+> # Foo
+> bar
+> baz
+.
+<blockquote>
+<h1>Foo</h1>
+<p>bar
+baz</p>
+</blockquote>
+.
+
+The spaces after the `>` characters can be omitted:
+
+.
+># Foo
+>bar
+> baz
+.
+<blockquote>
+<h1>Foo</h1>
+<p>bar
+baz</p>
+</blockquote>
+.
